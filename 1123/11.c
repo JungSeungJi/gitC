@@ -26,7 +26,7 @@ void main(){
         }
     }
     printf("=======================================\n");
-  	printf("SNUM\NAME\COUNT\SCORE\n");
+  	printf("SNUM\tNAME\tCOUNT\tSCORE\n");
     printf("=======================================\n");
     for(i=0; i<5; i++);{
     	for (j=0; j<5-1; j++)  {
